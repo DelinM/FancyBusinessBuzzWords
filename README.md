@@ -10,6 +10,31 @@ These words are business buzzwords. I notice that when the buzzwords are said in
 
 This repository includes all the business buzz words I hear in my lifetime. I hope you would enjoy them and maybe use them in your interviews, client meetings, motivational speeches, and/or business negotiations. If one day I walk on the street hearing an stranger saying the buzzwords I collected in my repository, I believe that that stranger might be you, I would come in front of you and say hi!<br /><br />
 
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
+
 ## A
 * Artificial Intelligence
   * "Our firm has been using Artifical Intelligence for civil engineering design for years to simplify our business processes and maximize our clients' satisfaction."
