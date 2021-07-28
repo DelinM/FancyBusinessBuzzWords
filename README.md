@@ -37,8 +37,7 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
 
 ## C
 * Cycles
-  * "Good morning, thank you for keeping me updatedon the project. I don't have the cycles for you until this month, but I will try to get back to you as soon as possible." 
-
+  * "Good morning, thank you for keeping me updated on the project, but I don't have the cycles for you until the end of this month."
 ## D
 * Deep Dive
 
