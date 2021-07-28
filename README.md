@@ -8,7 +8,7 @@ In almost every meeting, I usually hear one or two words that I don’t necessar
 
 These words are business buzzwords. I notice that when the buzzwords are said in client meetings, even the most unsatisfied clients would show their genuine Duchenne smiles. I observe that when the buzzwords are said by a chief of staff in company’s performance meeting, all the executive staff would coherently nod showing unbreakable determination and strength. I notice that when people managers uses multiple buzzwords in his/her motivational speeches, I would work until 2:30 am in the morning without any hesitation and refuse a bonus the next day.<br />
 
-This repository includes all the business buzz words I hear in my lifetime. I hope you would enjoy them and maybe use them in your interviews, client meetings, motivational speeches, and/or business negotiations. If one day I walk on the street hearing an stranger saying the buzzwords I collected in my repository, I believe that that stranger might be you, I would come in front of you and say hi!<br /><br />
+This repository includes all the business buzzwords I hear in my lifetime. I hope you would enjoy them and maybe use them in your interviews, client meetings, motivational speeches, and/or business negotiations. If one day I walk on the street hearing an stranger saying the buzzwords I collected in my repository, I believe that that stranger might be you, I would come in front of you and say hi!<br /><br />
 
 
 <!-- TABLE OF CONTENTS -->
