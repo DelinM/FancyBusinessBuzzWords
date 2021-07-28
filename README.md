@@ -45,6 +45,7 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
 * Propel
   * The connection I have will propel my career.
 * Personal Brand
+* Personal Accountability
 
 ## S
 * Synergies
