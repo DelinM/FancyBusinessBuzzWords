@@ -17,12 +17,12 @@ This repository includes all the business buzz words I hear in my lifetime. I ho
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#A">A</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#B">B</a></li>
+    <li><a href="#C">C</a></li>
+    <li><a href="#D">D</a></li>
+    <li><a href="#P">P</a></li>
+    <li><a href="#S">S</a></li>
+    <li><a href="#V">V</a></li>
   </ol>
 </details>
 
