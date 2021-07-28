@@ -6,4 +6,4 @@
 5. Cycles
 6. Personal Brand
 7. Deep Dive
-8. Artificial Intelligence: "Our firm has been using Artifical Intelligence for years to simply our business process and maximize out clients' satisfaction.
+8. Artificial Intelligence: "Our firm has been using Artifical Intelligence for years to simplify our business processes and maximize out clients' satisfaction.
