@@ -13,6 +13,7 @@ This repository includes all the business buzz words I hear in my lifetime. I ho
 ## A
 * Artificial Intelligence
   * "Our firm has been using Artifical Intelligence for civil engineering design for years to simplify our business processes and maximize our clients' satisfaction."
+  * Lame Synonyms: tool, in-house software, python, etc.
 
 ## B
 * Bandwidth
