@@ -20,6 +20,7 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
     <li><a href="#B">B</a></li>
     <li><a href="#C">C</a></li>
     <li><a href="#D">D</a></li>
+    <li><a href="#H">H</a></li>
     <li><a href="#P">P</a></li>
     <li><a href="#S">S</a></li>
     <li><a href="#V">V</a></li>
@@ -40,6 +41,11 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
   * "Good morning, thank you for keeping me updated on the project, but I don't have the cycles for you until the end of this month."
 ## D
 * Deep Dive
+
+
+## H
+* Human Centric
+
 
 ## P
 * Propel
