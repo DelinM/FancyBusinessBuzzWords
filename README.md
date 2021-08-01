@@ -23,6 +23,7 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
     <li><a href="#E">E</a></li>
     <li><a href="#H">H</a></li>
     <li><a href="#P">P</a></li>
+    <li><a href="#Q">Q</a></li>
     <li><a href="#S">S</a></li>
     <li><a href="#V">V</a></li>
   </ol>
@@ -57,8 +58,17 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
 * Personal Brand
 * Personal Accountability
 
+## Q
+* Quantitative Anlysis
+
+
 ## S
 * Synergies
+
+## T
+* Tradeoff Stud
+* Tradespace
+
 
 ## V
 * Value Proposition
