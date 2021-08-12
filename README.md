@@ -67,7 +67,7 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
     * "Such a process also identifies any conflicts and synergies that become the basis of tradeoff analyses in order to make better decisions." 
 
 ## T
-* Tradeoff Stud
+* Tradeoff Study
 * Tradespace
 
 
