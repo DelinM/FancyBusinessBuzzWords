@@ -22,6 +22,7 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
     <li><a href="#D">D</a></li>
     <li><a href="#E">E</a></li>
     <li><a href="#H">H</a></li>
+    <li><a href="#L">L</a></li>
     <li><a href="#P">P</a></li>
     <li><a href="#Q">Q</a></li>
     <li><a href="#S">S</a></li>
@@ -31,52 +32,63 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
 
 
 ## A
-* Agile
-* Artificial Intelligence
+* **Agile**
+* **Artificial Intelligence**
   * "Our firm has been using Artifical Intelligence for civil engineering design for years to simplify our business processes and maximize our clients' satisfaction."
   * Lame Synonyms: tool, in-house software, python, etc.
 
 ## B
-* Bandwidth
+* **Bandwidth**
 
 ## C
-* Cycles
+* **Cycles**
   * "Good morning, thank you for keeping me updated on the project, but I don't have the cycles for you until the end of this month."
-* (Open) Communicaiton
+* **(Open) Communicaiton**
   * Instead of using the word "communication", we say "open communication". 
 ## D
-* Deep Dive
+* **Deep Dive**
 
 ## E
-* Empower(ed)
+* **Empower(ed)**
 
 ## H
-* Human Centric
-* Hybrid
- 
+* **Human Centric**
+* **Hybrid**
+
+## K
+* **Knowledge Elicitation**
+  * def:  Knowledge Elicitation uses interviews to understand the needs and habits of subject matter experts. 
+  
+
+## L
+* **Lead User Observation**
+  * def: Lead User Observation is a method that involves the observation or recording of experts performing specific tasks.
+
 ## P
-* Propel
+* **Propel**
   * The connection I have will propel my career.
-* Personal Brand
-* Personal Accountability
+* **Personal Brand**
+* **Personal Accountability**
 
 ## Q
-* Quantitative Anlysis
+* **Quantitative Anlysis**
 
 
 ## S
-* Synergies
+* **Synergies**
     * "Such a process also identifies any conflicts and synergies that become the basis of tradeoff analyses in order to make better decisions." 
-* Stakeholder salience
+* **Stakeholder salience**
 
 
 ## T
-* Tradeoff Study
-* Tradespace
+* **Tradeoff Study**
+* **Tradespace**
+* **Technological Forecasting**
+  * def: Technology forecasting involves generating concepts based on forecasting the types of technologies, their characteristics, and their availability in the future. 
 
 
 ## V
-* Value Proposition
+* **Value Proposition**
   * "While the value chain focuses internally on operations, the value proposition is the element of strategy that looks outward at customers, at the demand side of the business. Strategy is fundamentally integrative, bringing the demand and supply sides together.”
 
 
