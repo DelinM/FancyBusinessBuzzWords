@@ -42,6 +42,8 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
 ## C
 * Cycles
   * "Good morning, thank you for keeping me updated on the project, but I don't have the cycles for you until the end of this month."
+* (Open) Communicaiton
+  * Instead of using the word "communication", we say "open communication". 
 ## D
 * Deep Dive
 
