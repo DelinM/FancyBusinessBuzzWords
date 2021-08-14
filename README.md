@@ -67,6 +67,8 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
 ## S
 * Synergies
     * "Such a process also identifies any conflicts and synergies that become the basis of tradeoff analyses in order to make better decisions." 
+* Stakeholder salience
+
 
 ## T
 * Tradeoff Study
