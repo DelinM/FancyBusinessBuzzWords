@@ -39,6 +39,8 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
 
 ## B
 * **Bandwidth**
+* **Boil the ocean**
+  *  * "Hey buddy, let's try not to boil the ocean here. An simple but elegant solution is all we need here."  
 
 ## C
 * **Cycles**
