@@ -37,6 +37,7 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
   * "Our firm has been using Artifical Intelligence for civil engineering design for years to simplify our business processes and maximize our clients' satisfaction."
   * Lame Synonyms: tool, in-house software, python, etc.
 
+
 ## B
 * **Bandwidth**
 * **Boil the ocean**
