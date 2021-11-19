@@ -98,36 +98,3 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
   * "While the value chain focuses internally on operations, the value proposition is the element of strategy that looks outward at customers, at the demand side of the business. Strategy is fundamentally integrative, bringing the demand and supply sides together.”
 
 
-
-```python
-import pandas as pd
-from os import listdir
-from os.path import isfile, join
-
-# extract file name from the directory
-path = 'E:\DelinM_IOS\Operation_Stacy'
-list = [f for f in listdir(path) if isfile(join(path, f))]
-csvlist = []
-
-for item in list:
-    if '.csv' in item:
-        csvlist.append(item)
-
-no_sheets = len(csvlist)
-print(no_sheets)
-
-contents = []
-
-for csv in csvlist:
-    csvfile = pd.ExcelFile(csv)
-    csvcontent = csvfile.parse()
-    contents.append(csvcontent)
-
-
-print(contents)
-
-with pd.ExcelWriter('SummaryTabs.xlsx', engine = 'xlsxwriter') as writer:
-    for count, content in enumerate(contents):
-        content.to_excel(writer, sheet_name= csvlist[count].strip('.csv'))
-
-
